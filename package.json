@@ -1,3 +1,19 @@
 {
-  "name": "@akbr/stylus"
+  "name": "@akbr/stylus",
+  "version": "0.0.1",
+  "description": "An anime.js-inspired wrapper for settings styles and WAPI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akbr/stylus.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/akbr/stylus/issues"
+  },
+  "homepage": "https://github.com/akbr/stylus#readme"
 }
